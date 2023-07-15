@@ -1,0 +1,21 @@
+
+header nav ul {
+    list-style-type: none;
+    padding: 20;
+  }
+  
+  header nav ul li {
+    display: inline-block;
+  }
+  
+  header nav ul li a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #270d1a;
+  }
+  
+  header nav ul li a:hover {
+    background-color: #c07b7b;
+    color: #ffe1e1;
+  }
